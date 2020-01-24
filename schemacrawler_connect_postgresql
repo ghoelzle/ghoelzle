@@ -1,0 +1,1 @@
+./schemacrawler.sh --server=postgresql --database=fptz2 --schemas=public --host=localhost --port=5433 --user=postgres --password=postgres --info-level=standard --command=schema --outputformat=png --outputfile /tmp/tmpdb.png
